@@ -1,0 +1,177 @@
+body{
+    margin:auto;
+}
+/*Header CSS*/
+header{
+    height:60px;
+    /* border: 2px solid seagreen; */
+    background-color: black;
+}
+#brand{
+    margin-top:5px;
+    margin-left:10px;
+    float:left;
+}
+#logo{
+    height:40px;
+    width:53px;
+    float:left;
+    margin-top:7%;
+}
+#name{
+    float:left;
+    color:#fff;
+    margin-top:-9px;
+    margin-left:1px;
+}
+.extra > a{
+    float:right;
+    margin-left: 21px;
+    margin-top:1%;
+    color:#fff
+}
+/* search */
+#Search{
+    height:700px;
+    /* border: 2px solid aqua; */
+    background-image:url(images/spotify\ wallpaper\ 4.jpg);
+    background-size:cover;
+    /* background-size: 100% 600px; */
+} 
+
+#heading{
+    color:#fff;
+    margin-top: 10%;
+    margin-left: 900px;
+    position: absolute;
+    font-size: 77px;
+    /* float:right; */
+}
+#click{
+    margin-top:30%;
+    margin-left:70%;
+    height:35px;
+    width:15%;
+    position: absolute;
+    /* border: 2px solid red; */
+    background-color: #fff;
+}
+#getfree{
+    margin-top:10%;
+    margin-left:10%;
+    height:50px;
+    width:8%;
+    font-size:25px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+}
+
+/* quicksearch */
+#quickSearch{
+    /* border:2px solid yellowgreen; */
+    height:550px;
+    width:100%;
+    background-color: black;
+    /* display:inline-block; */
+    position: absolute;
+}
+#singers{
+    height:400px;
+    width:16%;
+    margin-top:5%;
+    margin-left:2%;
+    /* border:2px solid red; */
+    float:left;
+    box-shadow: -10px 30px 100px  purple;
+}
+.boxes{
+    /* border: 2px solid #fff; */
+    width:77%;
+    height:500px;
+    margin-top:2%;
+    margin-left:20%;
+}
+.mainheadingbox{
+    /* border: 2px solid #fff; */
+    width:20%;
+    height:45px;
+    margin-top:0%;
+    margin-left:4%;
+}
+.Divheading{
+    margin-left:1% ;
+    margin-top: 1%;
+    color:#fff;
+    font-size: 40px;
+}
+
+.allcontentDiv{
+    /* border: 2px solid #fff; */
+    width:20%;
+    height:420px;
+    margin-top:1%;
+    margin-left:4%;
+    float:left;
+    box-shadow: 10px 20px 10px grey;
+}
+.contentImg{
+    height:225px;
+    width:100%;
+}
+.contentheadingDiv{
+    /* border: 2px solid #fff; */
+    width:90%;
+    height:40px;
+    margin-top:1%;
+    margin-left:4%;
+}
+.contentheading{ 
+    margin-top: 3%;
+    color:#fff;
+    font-size: 25px;
+    text-align: center;
+}
+.contentDiv{
+    /* border: 2px solid #fff; */
+    width:90%;
+    height:125px;
+    margin-top:1%;
+    margin-left:4%;
+}
+.content{
+    margin-top: 7%;
+    margin-left: 5%;
+    color:#B9B5B2 ;
+    font-size: 18px;
+}
+
+/* Footer */
+footer{
+    /* border:2px solid red; */
+    display: inline-block;
+    width: 100%;
+    margin-top: 3%;
+    margin-left:4%; 
+    background-color: black;
+}
+#footDiv{
+    /* border:2px solid red; */
+    margin-top:0%;
+    margin-left:0%;
+}
+#social{
+    height:90px;
+    width:20%;
+    margin-top: 7%;
+    margin-left: 2%;
+}
+#end{
+    /* border:2px solid red; */
+    margin-top: 0%;
+    margin-left:50%;
+    font-size:30px;
+    font-style: italic;
+    font-weight: bold;
+    background-color: black;
+    color: #fff;
+}
